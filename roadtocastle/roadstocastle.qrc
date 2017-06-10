@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/backgrounds">
+        <file>ROAD.jpg</file>
+        <file>output_screen.png</file>
+        <file>second_window.png</file>
+        <file>1943b9390a52fd80b0bb056094e1d29d.jpg</file>
+        <file>base.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>button.jpg</file>
+        <file>browsebutton.png</file>
+        <file>exitbutton.png</file>
+        <file>musicbutton.png</file>
+        <file>outputbutton.png</file>
+        <file>back.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>23448534.mp3</file>
+        <file>Paladins - Menu Music.mp3</file>
+    </qresource>
+</RCC>
